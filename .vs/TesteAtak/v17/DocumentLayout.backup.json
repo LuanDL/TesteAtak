@@ -3,92 +3,44 @@
   "WorkspaceRootPath": "C:\\Estudos\\C#\\TesteAtak\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\personaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\views\\clientes\\gerar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:views\\clientes\\gerar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\resendemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\views\\clientes\\gerar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:views\\clientes\\gerar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\testeatak.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:testeatak.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\manage\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\loginwith2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\loginwith2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\manage\\disable2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\disable2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,292 +50,157 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PersonalData.cshtml",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-11T06:57:51.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DownloadPersonalData.cshtml.cs",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwC0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T06:56:27.62Z",
+              "WhenOpened": "2025-10-12T18:31:51.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DeletePersonalData.cshtml",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-11T06:54:05.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ResetPassword.cshtml",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-11T06:50:47.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ResendEmailConfirmation.cshtml",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-11T06:50:16.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ChangePassword.cshtml.cs",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAwwGwAAAAAAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T06:42:28.639Z",
+              "WhenOpened": "2025-10-12T18:28:47.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gerar.cshtml.cs",
+              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Views\\Clientes\\Gerar.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Gerar.cshtml.cs",
+              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Views\\Clientes\\Gerar.cshtml.cs",
+              "RelativeToolTip": "Views\\Clientes\\Gerar.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:28:17.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ChangePassword.cshtml",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-11T06:40:31.79Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-12T18:03:38.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Email.cshtml.cs",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAmwE0AAAA/AAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "TesteAtak",
+              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\TesteAtak.csproj",
+              "RelativeDocumentMoniker": "TesteAtak.csproj",
+              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\TesteAtak.csproj",
+              "RelativeToolTip": "TesteAtak.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-12T18:03:12.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T06:38:28.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Email.cshtml",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAACWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-11T06:35:53.47Z",
+              "WhenOpened": "2025-10-12T18:02:54.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-11T06:23:04.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T06:29:19.532Z",
+              "WhenOpened": "2025-10-12T14:20:46.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Gerar.cshtml",
+              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Views\\Clientes\\Gerar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Gerar.cshtml",
+              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Views\\Clientes\\Gerar.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Gerar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-11T06:29:17.174Z",
+              "WhenOpened": "2025-10-12T17:40:05.514Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "c2c4c847-6996-44dd-9f14-9a95ef4e7fc5",
+        "Display": 0,
+        "X": -5,
+        "Y": 0,
+        "Width": 778,
+        "Height": 821,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Logout.cshtml",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-11T06:28:27.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LoginWithRecoveryCode.cshtml",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-11T06:28:21.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LoginWith2fa.cshtml",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-11T06:25:27.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EnableAuthenticator.cshtml",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-11T06:25:02.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Disable2fa.cshtml",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-11T06:24:39.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAADwv2EAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Email.cshtml.cs",
+              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAawH4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T06:18:23.987Z",
+              "WhenOpened": "2025-10-12T13:42:33.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABqAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Email.cshtml",
+              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-11T06:16:13.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ForgotPasswordConfirmation.cshtml.cs",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T06:16:08.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ForgotPassword.cshtml.cs",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwEoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T06:14:59.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAArwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-11T06:01:10.283Z",
+              "WhenOpened": "2025-10-12T13:28:45.54Z",
               "EditorCaption": ""
             }
           ]

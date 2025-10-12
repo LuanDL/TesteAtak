@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using TesteAtak.Data;
+using TesteAtak.Services;
 
 namespace TesteAtak
 {
@@ -19,6 +20,12 @@ namespace TesteAtak
             builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddTransient<GeradorClientesService>();
+
+            builder.Services.AddTransient<ImportadorClientesService>();
+
+            builder.Services.AddTransient<EmailService>();
 
             var app = builder.Build();
 

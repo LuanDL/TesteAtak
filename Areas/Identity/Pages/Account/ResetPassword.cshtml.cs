@@ -49,7 +49,7 @@ namespace TesteAtak.Areas.Identity.Pages.Account
             ///     directly from your code. This API may change or be removed in future releases.
             /// </summary>
             [Required]
-            [StringLength(100, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
+            [StringLength(100, ErrorMessage = "O {0} deve ter entre {2} e {1} digitos.", MinimumLength = 6)]
             [DataType(DataType.Password)]
             public string Password { get; set; }
 
@@ -59,7 +59,7 @@ namespace TesteAtak.Areas.Identity.Pages.Account
             /// </summary>
             [DataType(DataType.Password)]
             [Display(Name = "Confirm password")]
-            [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
+            [Compare("Password", ErrorMessage = "Senha e confirmação de senha incompátiveis.")]
             public string ConfirmPassword { get; set; }
 
             /// <summary>
@@ -75,7 +75,7 @@ namespace TesteAtak.Areas.Identity.Pages.Account
         {
             if (code == null)
             {
-                return BadRequest("A code must be supplied for password reset.");
+                return BadRequest("Um código deve ser fornecido para alteração de senha.");
             }
             else
             {
