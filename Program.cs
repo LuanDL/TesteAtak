@@ -25,6 +25,8 @@ namespace TesteAtak
 
             builder.Services.AddTransient<ImportadorClientesService>();
 
+            builder.Configuration.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
+
             builder.Services.AddTransient<EmailService>();
 
             var app = builder.Build();

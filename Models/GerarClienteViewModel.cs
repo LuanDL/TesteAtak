@@ -8,9 +8,9 @@ namespace TesteAtak.Models
         [Range(10, 1000)]
         public int Quantidade { get; set; }
 
-        [Required]
-        [EmailAddress]
-        public string Email { get; set; }
-        public string Acao { get; set; }
+        [Required(ErrorMessage = "Informe um e-mail válido.")]
+        [EmailAddress(ErrorMessage = "Formato de e-mail inválido.")]
+        public required string Email { get; set; }
+        public required string Acao { get; set; }
     }
 }

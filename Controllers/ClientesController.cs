@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using TesteAtak.Models;
 using TesteAtak.Services;
 
 namespace TesteAtak.Controllers
 {
+    [Authorize]
     public class ClientesController : Controller
     {
         private readonly GeradorClientesService _gerador;
@@ -35,9 +37,17 @@ namespace TesteAtak.Controllers
             }
             else if (model.Acao == "email")
             {
-                await _email.EnviarComAnexoAsync(model.Email, excelBytes, "clientes.xlsx");
-                ViewBag.Mensagem = "Email enviado com sucesso!";
-                return View(model);
+                if (string.IsNullOrWhiteSpace(model.Email))
+                {
+                    ModelState.AddModelError("Email", "O campo de e-mail é obrigatório");
+                    return View(model);
+                }
+                else 
+                {
+                     await _email.EnviarComAnexoAsync(model.Email, excelBytes, "clientes.xlsx");
+                    ViewBag.Mensagem = "Email enviado com sucesso!";
+                    return View(model);
+                }
             }
 
             ModelState.AddModelError("", "Ação inválida.");
