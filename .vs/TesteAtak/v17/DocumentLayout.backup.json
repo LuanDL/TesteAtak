@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Estudos\\C#\\TesteAtak\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\views\\clientes\\gerar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:views\\clientes\\gerar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\models\\gerarclienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:models\\gerarclienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +47,99 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-13T00:23:24.757Z",
+              "WhenOpened": "2025-10-14T03:50:14.334Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T03:07:16.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Models\\Clientes.cs",
+              "RelativeDocumentMoniker": "Models\\Clientes.cs",
+              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Models\\Clientes.cs",
+              "RelativeToolTip": "Models\\Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T01:13:36.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GerarClienteViewModel.cs",
+              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Models\\GerarClienteViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\GerarClienteViewModel.cs",
+              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Models\\GerarClienteViewModel.cs",
+              "RelativeToolTip": "Models\\GerarClienteViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T01:13:18.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T01:13:13.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T01:00:09.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T00:31:33.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gerar.cshtml",
+              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Views\\Clientes\\Gerar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Gerar.cshtml",
+              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\Views\\Clientes\\Gerar.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Gerar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T00:30:22.296Z"
             }
           ]
         }

@@ -8,6 +8,13 @@
 <h3>@ViewData["Title"]</h3>
 </div>
 
+@if (ViewBag.Mensagem != null)
+{
+    <div class="alert alert-success" role="alert">
+        @ViewBag.Mensagem
+    </div>
+}
+
 <form asp-action="Gerar" method="post">
     <div class="col-md-6 mx-auto">
         <div class="form-group mb-3">
@@ -25,8 +32,10 @@
         <input type="hidden" name="Acao" value="" id="acaoInput" />
 
         <div class="d-flex justify-content-between">
-            <button type="submit" class="btn btn-success" onclick="document.getElementById('acaoInput').value='email'">Enviar por Email</button>
-            <button type="submit" class="btn btn-primary" onclick="document.getElementById('acaoInput').value='download'">Download Excel</button>
+            <div class="btn-group" role="group" arial-label="Basic example">
+                <button type="submit" style="margin: 0 0px" class="btn btn-primary" onclick="document.getElementById('acaoInput').value='email'">Enviar por Email</button>
+                <button type="submit" style="margin: 0 5px" class="btn btn-success" onclick="document.getElementById('acaoInput').value='download'">Download Excel</button>
+        </div>
         </div>
     </div>
 </form>
