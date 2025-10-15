@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Estudos\\C#\\TesteAtak\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Estudos\\C#\\TesteAtak\\.github\\workflows\\TesteAtak.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\TesteAtak.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|c:\\estudos\\c#\\testeatak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{361714B4-FD18-4C9E-A961-0B909F5AEAA9}|TesteAtak.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TesteAtak.yml",
+              "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\.github\\workflows\\TesteAtak.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\TesteAtak.yml",
+              "ToolTip": "C:\\Estudos\\C#\\TesteAtak\\.github\\workflows\\TesteAtak.yml",
+              "RelativeToolTip": ".github\\workflows\\TesteAtak.yml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-10-15T00:48:25.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Estudos\\C#\\TesteAtak\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
